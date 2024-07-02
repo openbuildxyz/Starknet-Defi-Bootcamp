@@ -40,7 +40,7 @@ Copy the github_id folder in the homework folder, change the new folder name to 
 1. Install Argent's browser extension
 2. Create an account on Sepolia
 3. Fund the wallet with the faucet
-4.Check the tx lifecycle
+4. Check the tx lifecycle
 5. Deploy the account
 6. Check the account source code
 7. Interact with a counter contract
