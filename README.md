@@ -37,7 +37,7 @@ If you are a non-native English developer, this chrome extention will be helpf
 1. Install Argent's browser extension
 2. Create an account on Sepolia
 3. Fund the wallet with the faucet
-4.Check the tx lifecycle
+4. Check the tx lifecycle
 5. Deploy the account
 6. Check the account source code
 7. Interact with a counter contract
