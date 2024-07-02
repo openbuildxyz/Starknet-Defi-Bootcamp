@@ -29,33 +29,27 @@ If you are a non-native English developer, this chrome extention will be helpf
 
 ## OpenBuild Starknet Bootcamp
 
-1. Playlist being updated...
+1. [Playlist](https://openbuild.xyz/learn/challenges/2038268049) being updated...
 
 ## Bounty 
+### Task submission preparation:
 
-### Session 1 
+Copy the github_id folder in the homework folder, change the new folder name to your own GitHub ID, fill in the information in the readme.md, and submit a PR. Create a task folder in the members/[github_id] folder in the same naming format as task[n], such as task1, task2. Submit each task to the corresponding folder.
+
+### Session 1 （28￥）
 1. Install Argent's browser extension
 2. Create an account on Sepolia
 3. Fund the wallet with the faucet
-4. Check the tx lifecycle
+4.Check the tx lifecycle
 5. Deploy the account
 6. Check the account source code
 7. Interact with a counter contract
 
-### Session 2
-Solve Starklings up to Starknet exercises
+Task submission:
 
-### Session 3
-Solve the remaining `starknet` exercises from Starklings, and solve the second part of the `counter-workshop` and deploy the smart contract.
+1. Complete the task by referring to the [video](https://openbuild.xyz/learn/challenges/2038268049/1718554552)
 
-### Session 4
-Starklings- Beginner Level
-Node Guardians - Intermediate Level
-Discover Starknet
-Only Dust - Open-Source Contribution
-
-### Session 5
-https://book.dojoengine.org/
+2. Submit the task completion screenshot to the task1 folder under the members/[github_id] folder.
 
 ## Resources
 
@@ -75,4 +69,4 @@ https://book.dojoengine.org/
 1. [Cairo-by-example](https://cairo-by-example.com/)
 2. [Starknet-by-example](https://starknet-by-example.voyager.online/)
 3. [OpenZeppelin Cairo](https://github.com/OpenZeppelin/cairo-contracts/)
-4. [Reddio Cairo templates
+4. [Reddio Cairo templates](https://github.com/reddio-com/cairo)
