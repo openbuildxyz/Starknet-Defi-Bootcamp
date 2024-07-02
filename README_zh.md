@@ -30,39 +30,34 @@ Starknet DeFi 公开课是由Starknet和OpenBuild共同发起的专注于介绍�
 
 ## OpenBuild Starknet Bootcamp【英文】
 
-1. [视频播放列表]([Starknet DeFi 公开课 | OpenBuild](https://openbuild.xyz/learn/challenges/2037971949)) 更新中......
+1. [视频播放列表]([Starknet DeFi 公开课 | OpenBuild](https://openbuild.xyz/learn/challenges/2038268049)) 更新中......
 
 ## Starknet 中文公开课
 
-1. Openbuild 课程 - [视频列表](https://openbuild.xyz/)
+1. Openbuild 课程 - [视频列表](https://openbuild.xyz/learn/challenges/2037971949)
   
 2. B 站[播放列表](https://space.bilibili.com/)
 
 ## Bounty 任务
+### 任务提交准备：
+复制 homework 文件夹中的 github_id 文件夹，将新文件夹名称改为自己的 GitHub ID，填写其中 readme.md 的信息，提交 PR。
+在 members/[github_id] 文件夹下按照 task[n] 的命名方式创建任务文件夹，如：task1、task2。
+每次任务提交至相应文件夹中。
 
-### 任务 1
+### 任务 1 （28￥）
 1. 安装 Argent 的浏览器扩展
 2. 在 Sepolia 上创建账户
 3. 使用水龙头为钱包注资
 4. 检查 tx 生命周期
 5. 部署账户
 6. 检查账户源代码
-7. 与counter合约交互
+7. 与counter contract交互
 
-### 任务 2
-解决 Starklings 到 Starknet 练习
+任务提交：
 
-### 任务 3
-解决 Starklings 剩余的“starknet”练习，并解决“counter-workshop”的第二部分并部署智能合约。
+1.参考[视频](https://openbuild.xyz/learn/challenges/2037971949/1718363510)完成任务
 
-### 任务 4
-Starklings-初级
-节点守护者 - 中级
-探索 Starknet
-Only Dust - 开源贡献
-
-### 任务 5
-https://book.dojoengine.org/
+2.将任务完成截图提交至members/[github_id] 文件夹下的task1文件夹内。
 
 ## Resources/学习资料
 
@@ -82,4 +77,10 @@ https://book.dojoengine.org/
 1. [Cairo-by-example](https://cairo-by-example.com/)
 2. [Starknet-by-example](https://starknet-by-example.voyager.online/)
 3. [OpenZeppelin Cairo](https://github.com/OpenZeppelin/cairo-contracts/)
-4. [Reddio Cairo templates
+4. [Reddio Cairo templates](https://github.com/reddio-com/cairo)
+## 合约示例:
+
+1. [Cairo-by-example](https://cairo-by-example.com/)
+2. [Starknet-by-example](https://starknet-by-example.voyager.online/)
+3. [OpenZeppelin Cairo](https://github.com/OpenZeppelin/cairo-contracts/)
+4. [Reddio Cairo templates](https://github.com/reddio-com/cairo)
