@@ -39,25 +39,20 @@ Starknet DeFi 公开课是由Starknet和OpenBuild共同发起的专注于介绍�
 2. B 站[播放列表](https://space.bilibili.com/)
 
 ## Bounty 任务
+
 ### 任务提交准备：
 复制 homework 文件夹中的 github_id 文件夹，将新文件夹名称改为自己的 GitHub ID，填写其中 readme.md 的信息，提交 PR。
 在 members/[github_id] 文件夹下按照 task[n] 的命名方式创建任务文件夹，如：task1、task2。
 每次任务提交至相应文件夹中。
 
-### 任务 1 （28￥）
-1. 安装 Argent 的浏览器扩展
-2. 在 Sepolia 上创建账户
-3. 使用水龙头为钱包注资
-4. 检查 tx 生命周期
-5. 部署账户
-6. 检查账户源代码
-7. 与counter contract交互
-
-任务提交：
-
-1.参考[视频](https://openbuild.xyz/learn/challenges/2037971949/1718363510)完成任务
-
-2.将任务完成截图提交至members/[github_id] 文件夹下的task1文件夹内。
+### 任务列表
+| 任务 |名称| 内容 | 奖励金额 |
+| --- | --- |---| --- |
+| [task1](./homework/task1.md) | 基础知识 | 完成Exercise1中6个小任务 | 28￥ |
+| [task2](./homework/task2.md) | Cairo | 完成 Starklings 中除 `starknet`外的练习 | 38￥ |
+| [task3](./homework/task3.md) | 智能合约 | 解决 Starklings 中剩余的 `starknet` 练习，<br>并解决 `counter-workshop` 的第二部分并部署智能合约。 |  |
+| [task4](./homework/task4.md) | 前端 |  |  |
+| [task5](./homework/task5.md) | Dojo |  |  |
 
 ## Resources/学习资料
 
@@ -72,12 +67,6 @@ Starknet DeFi 公开课是由Starknet和OpenBuild共同发起的专注于介绍�
 4. Reddio 整理的 [Hackathon Guide: A to ZK](https://reddio.notion.site/reddio/Hackathon-Guide-A-to-ZK-fd66f91a555941c7a05d2680bbd6f234)
   
 
-## 合约示例:
-
-1. [Cairo-by-example](https://cairo-by-example.com/)
-2. [Starknet-by-example](https://starknet-by-example.voyager.online/)
-3. [OpenZeppelin Cairo](https://github.com/OpenZeppelin/cairo-contracts/)
-4. [Reddio Cairo templates](https://github.com/reddio-com/cairo)
 ## 合约示例:
 
 1. [Cairo-by-example](https://cairo-by-example.com/)
