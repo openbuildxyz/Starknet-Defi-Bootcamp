@@ -35,21 +35,16 @@ If you are a non-native English developer, this chrome extention will be helpf
 ### Task submission preparation:
 
 Copy the github_id folder in the homework folder, change the new folder name to your own GitHub ID, fill in the information in the readme.md, and submit a PR. Create a task folder in the members/[github_id] folder in the same naming format as task[n], such as task1, task2. Submit each task to the corresponding folder.
+Here is your task list translated into English:
 
-### Session 1 （28￥）
-1. Install Argent's browser extension
-2. Create an account on Sepolia
-3. Fund the wallet with the faucet
-4. Check the tx lifecycle
-5. Deploy the account
-6. Check the account source code
-7. Interact with a counter contract
-
-Task submission:
-
-1. Complete the task by referring to the [video](https://openbuild.xyz/learn/challenges/2038268049/1718554552)
-
-2. Submit the task completion screenshot to the task1 folder under the members/[github_id] folder.
+### Task List
+| Task | Name | Content | Reward Amount |
+| --- | --- | --- | --- |
+| [task1](./homework/task1.md) | Fundamentals | Complete 6 mini-tasks in Exercise1 | 28￥ |
+| [task2](./homework/task2.md) | Cairo | Solve Starklings until the `starknet` exercises. | 38￥ |
+| [task3](./homework/task3.md) | Smart Contracts | Solve the remaining `starknet` exercises from Starklings, <br>and solve the second part of the `counter-workshop` and deploy the smart contract. |  |
+| [task4](./homework/task4.md) | Frontend |  |  |
+| [task5](./homework/task5.md) | Dojo |  |  |
 
 ## Resources
 
