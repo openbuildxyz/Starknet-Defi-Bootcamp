@@ -42,7 +42,7 @@ Here is your task list translated into English:
 | --- | --- | --- | --- |
 | [task1](./homework/task1.md) | Fundamentals | Complete 6 mini-tasks in Exercise1 | 28￥ |
 | [task2](./homework/task2.md) | Cairo | Solve Starklings until the `starknet` exercises. | 38￥ |
-| [task3](./homework/task3.md) | Smart Contracts | Solve the remaining `starknet` exercises from Starklings, <br>and solve the second part of the `counter-workshop` and deploy the smart contract. |  |
+| [task3](./homework/task3.md) | Smart Contracts | Solve the remaining `starknet` exercises from Starklings, <br>and solve the second part of the `counter-workshop` and deploy the smart contract. | 58￥ |
 | [task4](./homework/task4.md) | Frontend |  |  |
 | [task5](./homework/task5.md) | Dojo |  |  |
 
