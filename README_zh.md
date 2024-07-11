@@ -50,7 +50,7 @@ Starknet DeFi 公开课是由Starknet和OpenBuild共同发起的专注于介绍�
 | --- | --- |---| --- |
 | [task1](./homework/task1.md) | 基础知识 | 完成Exercise1中6个小任务 | 28￥ |
 | [task2](./homework/task2.md) | Cairo | 完成 Starklings 中除 `starknet`外的练习 | 38￥ |
-| [task3](./homework/task3.md) | 智能合约 | 解决 Starklings 中剩余的 `starknet` 练习，<br>并解决 `counter-workshop` 的第二部分并部署智能合约。 |  |
+| [task3](./homework/task3.md) | 智能合约 | 解决 Starklings 中剩余的 `starknet` 练习，<br>并解决 `counter-workshop` 的第二部分并部署智能合约。 | 58￥ |
 | [task4](./homework/task4.md) | 前端 |  |  |
 | [task5](./homework/task5.md) | Dojo |  |  |
 
