@@ -34,7 +34,7 @@ If you are a non-native English developer, this chrome extention will be helpf
 ## Bounty 
 ### Task submission preparation:
 
-Copy the github_id folder in the homework folder, change the new folder name to your own GitHub ID, fill in the information in the readme.md, and submit a PR. Create a task folder in the members/[github_id] folder in the same naming format as task[n], such as task1, task2. Submit each task to the corresponding folder.
+Copy the github_id folder in the members folder, change the new folder name to your own GitHub ID, fill in the information in the readme.md, and submit a PR. Create a task folder in the members/[github_id] folder in the same naming format as task[n], such as task1, task2. Submit each task to the corresponding folder.
 Here is your task list translated into English:
 
 ### Task List
