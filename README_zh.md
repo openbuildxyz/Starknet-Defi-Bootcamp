@@ -41,7 +41,7 @@ Starknet DeFi 公开课是由Starknet和OpenBuild共同发起的专注于介绍�
 ## Bounty 任务
 
 ### 任务提交准备：
-复制 homework 文件夹中的 github_id 文件夹，将新文件夹名称改为自己的 GitHub ID，填写其中 readme.md 的信息，提交 PR。
+复制 members 文件夹中的 github_id 文件夹，将新文件夹名称改为自己的 GitHub ID，填写其中 readme.md 的信息，提交 PR。
 在 members/[github_id] 文件夹下按照 task[n] 的命名方式创建任务文件夹，如：task1、task2。
 每次任务提交至相应文件夹中。
 
