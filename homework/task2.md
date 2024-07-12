@@ -1,6 +1,8 @@
-# 任务 2 完成 Starklings 中除 starknet外的练习
+# 任务 2 Starklings任务
+## 任务内容：
+完成 Starklings 中除 starknet 外的练习
 
-## 如何提交任务:
+## 任务提交:
 
 1. 克隆练习库： https://github.com/shramee/starklings-cairo1
 2. 按照指引完成练习
